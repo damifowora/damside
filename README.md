@@ -1,1 +1,3 @@
-# damside
+# maven-project
+
+Simple Maven Project
